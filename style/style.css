@@ -249,7 +249,7 @@ li a:hover {
 #working-right {
     width: 45%;
     height: 100%;
-    background-image: url(./hero-main.png), url(./Untitled_design__2_-removebg-preview.png);
+    background-image: url(../img/hero-main.png), url(../img/Untitled_design__2_-removebg-preview.png);
     background-size: 80rem;
     margin-top: -3rem;
     background-repeat: no-repeat;
@@ -397,7 +397,7 @@ li a:hover {
 }
 
 #card-1 {
-    background-image: url(./long.webp);
+    background-image: url(../img/long.webp);
     background-position: center;
     background-size: cover;
     object-fit: contain;
@@ -405,7 +405,7 @@ li a:hover {
 }
 
 #card-2 {
-    background-image: url(./short.webp);
+    background-image: url(../img/short.webp);
     background-position: center;
     background-size: cover;
     object-fit: cover;
@@ -414,7 +414,7 @@ li a:hover {
 }
 
 #card-3 {
-    background-image: url(./podcast.webp);
+    background-image: url(../img/podcast.webp);
     background-position: center;
     background-size: cover;
     object-fit: cover;
